@@ -1,7 +1,6 @@
-import Interface.Mentor;
-import Service.FullTimeMentor;
-import Service.MentorAccount;
-import Service.PartTimeMentor;
+import Services.FullTimeMentor;
+import Services.MentorAccount;
+import Services.PartTimeMentor;
 
 public class MainApp {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package Service;
+package Services;
 
-import Interface.Mentor;
+import Interfaces.Mentor;
 
 public class PartTimeMentor implements Mentor {
     @Override
