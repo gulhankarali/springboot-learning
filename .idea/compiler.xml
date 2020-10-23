@@ -16,18 +16,18 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Spring-00-LooselyCoupled" target="1.5" />
+      <module name="Spring-00-LooselyCoupled" target="1.8" />
       <module name="Spring-00-SpringContainer" target="1.8" />
-      <module name="Spring-00-TightlyCoupled" target="1.5" />
+      <module name="Spring-00-TightlyCoupled" target="1.8" />
       <module name="Spring-01-DIConstruction-Injection" target="1.8" />
       <module name="Spring-01-DIConstruction-SetterInjection" target="1.8" />
-      <module name="Spring-01-SpringContainer" target="1.5" />
+      <module name="Spring-01-SpringContainer" target="1.8" />
       <module name="Spring-02-BeanScope-Singleton-Prototype" target="1.5" />
-      <module name="Spring-02-DI-ConstructorInjection" target="1.5" />
-      <module name="Spring-02-DI-Setterinjection" target="1.5" />
+      <module name="Spring-02-DI-ConstructorInjection" target="1.8" />
+      <module name="Spring-02-DI-Setterinjection" target="1.8" />
       <module name="Spring-03-BeanLifeCycle" target="1.8" />
-      <module name="Spring-03-BeanScope-Singleton-Prototype" target="1.5" />
-      <module name="Spring-04-BeanLifeCycle" target="1.5" />
+      <module name="Spring-03-BeanScope-Singleton-Prototype" target="1.8" />
+      <module name="Spring-04-BeanLifeCycle" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
